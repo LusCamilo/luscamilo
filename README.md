@@ -1,4 +1,5 @@
-# Oi eu sou o Lucas Camilo Ramalho
+# Oi eu sou o Lucas Camilo Ramalho 
+## estou atualmente fazendo o curso **Desenvolvimento de Sistemas** através do SENAI de Jandira 
 
 ![luscamilo GitHub stats](https://github-readme-stats.vercel.app/api?username=luscamilo&show_icons=true&theme=dark)
 
