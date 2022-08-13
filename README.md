@@ -15,7 +15,9 @@
 
 <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> <img 
 height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img
-height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img
+height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+           
 
 
 ## Linguagens :pencil:
