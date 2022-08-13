@@ -1,15 +1,40 @@
-# Oi eu sou o Lucas Camilo Ramalho 
-Estou atualmente fazendo o curso __Desenvolvimento de Sistemas__ através da [Escola Senai "Profº. Vicente Amato"](https://jandira.sp.senai.br/) 
+# Oi eu sou o Lucas Camilo :wink::v:
+<img  align="right" height="190em" src="https://steamuserimages-a.akamaihd.net/ugc/937216170903258518/37C240DB8EFFE222071E9E30FE86359DAE6403E7/?imw=1200&impolicy=Letterbox"/>
 
+- Atualmente estou fazendo o curso __Tecnico de Desenvolvimento de Sistemas__  
+
+- Estou aprendendo atualmente Kotlin, JavaScript, HTML e CSS :nerd_face:
+
+- pretendo me tornar um desenvolvedor __Front-End__ :pray:
+
+- "Sem música a vida seria um erro" :musical_note:
+
+
+
+
+## Tecnologias :computer:
+
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> <img 
+height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img
+height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+
+
+## Linguagens :pencil:
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img
+height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img 
+height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img 
+height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img
+height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+         
+
+## status :chart_with_upwards_trend:
 <div aling="center">
 
-![luscamilo GitHub stats](https://github-readme-stats.vercel.app/api?username=luscamilo&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luscamilo&theme=dark)](https://github.com/luscamilo/luscamilo)
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=luscamilo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscamilo&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
 
-<div aling="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luscamilo&repo=portfolio&theme=dark)](https://github.com/luscamilo/portfolio)<img src="https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif">
-</div>
 
 ## 
