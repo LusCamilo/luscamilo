@@ -35,7 +35,3 @@ height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kot
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscamilo&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
-
-
-
-## 
