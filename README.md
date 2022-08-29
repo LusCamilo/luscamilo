@@ -34,6 +34,6 @@ height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/ar
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luscamilo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscamilo&layout=compact&langs_count=7&theme=dark"/>
-<img height="140em" src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Keif-lock.png.webp"/>
+<img height="120em" src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Keif-lock.png.webp"/>
 
 </div>
