@@ -3,7 +3,7 @@
 
 - Atualmente estou fazendo o curso __Técnico de Desenvolvimento de Sistemas__  
 
-- Estou aprendendo atualmente Kotlin, JavaScript, HTML e CSS :nerd_face:
+- Estou aprendendo atualmente Kotlin e JavaScript :nerd_face:
 
 - pretendo me tornar um desenvolvedor __Front-End__ :pray:
 
