@@ -5,7 +5,7 @@
 
 - Estou aprendendo atualmente Kotlin e JavaScript :nerd_face:
 
-- pretendo me tornar um desenvolvedor __Back-End__ :pray:
+- pretendo me tornar um desenvolvedor __Front-End__ :pray:
 
 - "Sem música a vida seria um erro" :musical_note:
 
