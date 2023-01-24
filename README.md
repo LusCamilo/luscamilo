@@ -41,6 +41,6 @@ height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kot
 
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=luscamilo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="120em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscamilo&layout=compact&langs_count=7&theme=dark"/>
-<img height="120em" src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/50a14945972eabd.png"/>
+
 
 </div>
