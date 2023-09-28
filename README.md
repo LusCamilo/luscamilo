@@ -4,9 +4,9 @@
 
 
 
-- Atualmente estou fazendo o curso __Técnico de Desenvolvimento de Sistemas__  
+- Atualmente estou trabalhando como  __Desenvolvedor__  
 
-- Estou aprendendo atualmente Kotlin e JavaScript :nerd_face:
+- Estou aprendendo atualmente React Native, Graphql e TypeScript :nerd_face:
 
 - pretendo me tornar um desenvolvedor __Front-End__ :pray:
 
