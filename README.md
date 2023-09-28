@@ -21,17 +21,20 @@ height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vsc
 height="50em" src="https://cdn.iconscout.com/icon/free/png-128/postman-3521648-2945092.png"/> <img
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img
-height="50em" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png">
+height="50em" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png"> <img 
+height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
            
 
 
 ## Linguagens :pencil:
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img 
-height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img 
+height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /><img 
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img 
-height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> <img                                                   height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> <img                                                   
+height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           
           
          
